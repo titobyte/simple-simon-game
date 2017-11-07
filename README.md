@@ -1,2 +1,2 @@
-# simple-simon-game
-Simple Simon Game using JavaScript 
+# Simple Simon Game
+Simon Game using JavaScript 
